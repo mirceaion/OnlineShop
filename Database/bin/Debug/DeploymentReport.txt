@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Customers] (Table)
+       [dbo].[Customers].[IX_Customers_Column] (Index)
+       [dbo].[Products] (Table)
+       [dbo].[Purchases] (Table)
+       [dbo].[Purchases].[IX_Purchases_UserId] (Index)
+       [dbo].[Purchases].[IX_Purchases_ProductId] (Index)
+       [dbo].[FK_Purchases_ToCustomers] (Foreign Key)
+       [dbo].[FK_Purchases_ToProducts] (Foreign Key)
+
+** Supporting actions

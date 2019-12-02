@@ -1,0 +1,10 @@
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\bin\Debug\Database.dacpac
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\bin\Debug\DatabaseCLR.dll
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\bin\Debug\DatabaseCLR.pdb
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\Model.xml
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\refactor.xml
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\postdeploy.sql
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\predeploy.sql
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\DatabaseCLR.dll
+C:\Users\mircea.APOGEOS\source\repos\OnlineShop\Database\obj\Debug\DatabaseCLR.pdb
